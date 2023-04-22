@@ -20,4 +20,3 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('calculatorapp',include('calculatorapp.urls'))
 ]
-  
